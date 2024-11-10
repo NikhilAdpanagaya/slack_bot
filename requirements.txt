@@ -1,0 +1,6 @@
+Flask==2.3.2  
+slackclient
+slackeventsapi
+python-dotenv
+pinecone-client
+pinecone-plugin-assistant
